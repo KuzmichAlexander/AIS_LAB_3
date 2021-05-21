@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.server-2.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\aleks\Desktop\ДЗ 6 семестр\лабы архитектура ИС\лаба 3\server-2\.idea\.idea.server-2\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

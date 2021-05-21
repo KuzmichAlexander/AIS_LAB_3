@@ -1,0 +1,56 @@
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\rpc_laba3.exe
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\rpc_laba3.deps.json
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\rpc_laba3.runtimeconfig.json
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\rpc_laba3.runtimeconfig.dev.json
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\rpc_laba3.dll
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\rpc_laba3.pdb
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.csprojAssemblyReference.cache
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.AssemblyInfo.cs
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\staticwebassets\rpc_laba3.StaticWebAssets.Manifest.cache
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\staticwebassets\rpc_laba3.StaticWebAssets.xml
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\scopedcss\bundle\rpc_laba3.styles.css
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.RazorTargetAssemblyInfo.cache
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.csproj.CopyComplete
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.dll
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.pdb
+C:\Users\aleks\source\repos\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.genruntimeconfig.cache
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\rpc_laba3.exe
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\rpc_laba3.deps.json
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\rpc_laba3.runtimeconfig.json
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\rpc_laba3.runtimeconfig.dev.json
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\rpc_laba3.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\rpc_laba3.pdb
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.AssemblyInfo.cs
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\staticwebassets\rpc_laba3.StaticWebAssets.Manifest.cache
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\staticwebassets\rpc_laba3.StaticWebAssets.xml
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\scopedcss\bundle\rpc_laba3.styles.css
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.RazorTargetAssemblyInfo.cache
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.csproj.CopyComplete
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.pdb
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc_laba3\rpc_laba3\obj\Debug\netcoreapp3.1\rpc_laba3.genruntimeconfig.cache

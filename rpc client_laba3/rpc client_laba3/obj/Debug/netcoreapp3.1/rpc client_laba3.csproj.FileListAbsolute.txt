@@ -1,0 +1,60 @@
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\obj\Debug\netcoreapp3.1\rpc client_laba3.csprojAssemblyReference.cache
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\rpc client_laba3.exe
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\rpc client_laba3.deps.json
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\rpc client_laba3.runtimeconfig.json
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\rpc client_laba3.runtimeconfig.dev.json
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\rpc client_laba3.dll
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\rpc client_laba3.pdb
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\obj\Debug\netcoreapp3.1\rpc client_laba3.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\obj\Debug\netcoreapp3.1\rpc client_laba3.AssemblyInfo.cs
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\obj\Debug\netcoreapp3.1\rpc client_laba3.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\obj\Debug\netcoreapp3.1\rpc client_laba3.csproj.CopyComplete
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\obj\Debug\netcoreapp3.1\rpc client_laba3.dll
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\obj\Debug\netcoreapp3.1\rpc client_laba3.pdb
+C:\Users\aleks\source\repos\rpc client_laba3\rpc client_laba3\obj\Debug\netcoreapp3.1\rpc client_laba3.genruntimeconfig.cache
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\rpc client_laba3.exe
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\rpc client_laba3.deps.json
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\rpc client_laba3.runtimeconfig.json
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\rpc client_laba3.runtimeconfig.dev.json
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\rpc client_laba3.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\rpc client_laba3.pdb
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\obj\Debug\netcoreapp3.1\rpc client_laba3.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\obj\Debug\netcoreapp3.1\rpc client_laba3.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\obj\Debug\netcoreapp3.1\rpc client_laba3.AssemblyInfo.cs
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\obj\Debug\netcoreapp3.1\rpc client_laba3.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\obj\Debug\netcoreapp3.1\rpc client_laba3.csproj.CopyComplete
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\obj\Debug\netcoreapp3.1\rpc client_laba3.dll
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\obj\Debug\netcoreapp3.1\rpc client_laba3.pdb
+C:\Users\aleks\Desktop\лабы архитектура ИС\лаба 3\rpc client_laba3\rpc client_laba3\obj\Debug\netcoreapp3.1\rpc client_laba3.genruntimeconfig.cache
